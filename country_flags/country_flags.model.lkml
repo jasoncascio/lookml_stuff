@@ -1,5 +1,5 @@
 connection: "jasoncascio-bigquery"
 
-include: "*.view.lkml"
+include: "country_reference.view.lkml"
 
 explore: country_reference {}
